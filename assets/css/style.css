@@ -94,8 +94,8 @@ section main.contentBlock {
     border: 1px solid #dddddd;
 }
 
-section main.contentBlock #title, 
-section aside.smallBlock #title {
+section main.contentBlock .title, 
+section aside.smallBlock .title {
     color: #4aaaa5;
     font-size: 24px;
     font-weight: bold;

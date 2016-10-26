@@ -22,7 +22,7 @@
     transform: scale(1.2, 1.2);
 }
 
-.port-block div.title {
+.port-block div.port-title {
     position: absolute;
     bottom: 10px;
     width: 100%;
